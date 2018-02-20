@@ -1,0 +1,7 @@
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+jinsihou.diff-tool
+ms-vscode.csharp
+robertohuertasm.vscode-icons
+Valiantsin.operatormonodarktheme
+vscodevim.vim
