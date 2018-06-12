@@ -6,3 +6,4 @@ robertohuertasm.vscode-icons
 Valiantsin.operatormonodarktheme
 vscodevim.vim
 be5invis.vscode-custom-css
+octref.vetur
