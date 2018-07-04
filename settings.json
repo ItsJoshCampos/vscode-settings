@@ -1,8 +1,9 @@
 {
-	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+	"terminal.integrated.shell.windows":
+		"C:\\Windows\\System32\\cmd.exe",
 	"vsicons.projectDetection.autoReload": true,
 	"vsicons.dontShowNewVersionMessage": true,
-	"window.zoomLevel": 2,
+	"window.zoomLevel": 1,
 	"editor.formatOnSave": true,
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
@@ -13,8 +14,10 @@
 	"editor.formatOnType": true,
 	"editor.letterSpacing": 0.5,
 	"files.trimTrailingWhitespace": true,
-	"workbench.colorTheme": "Operator Mono Dark Theme",
-	"editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
+	"workbench.colorTheme":
+		"Operator Mono Dark Theme",
+	"editor.fontFamily":
+		"Operator Mono, Consolas, 'Courier New', monospace",
 	"vscode_custom_css.imports": [
 		"file://volumes/Users/joshcampos/Documents/vsCodeStyles.css"
 	],
