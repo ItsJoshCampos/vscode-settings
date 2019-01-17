@@ -1,41 +1,21 @@
 {
-	"terminal.integrated.shell.windows":
-		"C:\\Windows\\System32\\cmd.exe",
-	"vsicons.projectDetection.autoReload": true,
-	"vsicons.dontShowNewVersionMessage": true,
-	"window.zoomLevel": 1,
-	"editor.formatOnSave": true,
-	"prettier.singleQuote": true,
-	"prettier.useTabs": true,
-	"prettier.tabWidth": 2,
-	"prettier.printWidth": 50,
-	"editor.cursorBlinking": "solid",
-	"editor.cursorStyle": "underline-thin",
-	"editor.formatOnType": true,
-	"editor.letterSpacing": 0.5,
-	"files.trimTrailingWhitespace": true,
-	"workbench.colorTheme":
-		"Operator Mono Dark Theme",
-	"editor.fontFamily":
-		"Operator Mono, Consolas, 'Courier New', monospace",
-	"vscode_custom_css.imports": [
-		"file://volumes/Users/joshcampos/Documents/vsCodeStyles.css"
-	],
-	"http.proxy": "",
-	"editor.multiCursorModifier": "alt",
-	"eslint.autoFixOnSave": true,
-	"eslint.validate": [
-		{
-			"language": "html",
-			"autoFix": true
-		},
-		{
-			"language": "javascript",
-			"autoFix": true
-		},
-		{
-			"language": "vue",
-			"autoFix": true
-		}
-	]
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontFamily": "Operator Mono, Fira Code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "underline",
+    "editor.formatOnType": true,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "vscode_custom_css.imports": [
+        "file:////Users/jno8493/Documents/SystemUtilities/vsCodeStyles.css"
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4
 }
+

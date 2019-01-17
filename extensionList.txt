@@ -1,10 +1,9 @@
 esbenp.prettier-vscode
-formulahendry.auto-close-tag
-jinsihou.diff-tool
+coenraads.bracket-pair-colorized-2
 ms-vscode.csharp
 robertohuertasm.vscode-icons
-Valiantsin.operatormonodarktheme
-vscodevim.vim
+sdras.night-owl
+sdras.vue-vscode-snippets
+dbaeumer.vscode-eslint
 be5invis.vscode-custom-css
 octref.vetur
-dbaeumer.vscode-eslint
