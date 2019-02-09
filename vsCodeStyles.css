@@ -1,12 +1,5 @@
-    /* Comments */
+/* Comments */
 .mtk6 {
-    font-family: 'Fira Code';
-    font-size: 1.3em;
-  }
-
-    /* Ligatures */
-.mtk3,
-.mtk7
-{
-    font-family: "Fira Code";
+  font-family: 'Fira Code';
+  font-size: 1.3em;
 }
